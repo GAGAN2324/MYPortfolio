@@ -1,0 +1,8 @@
+com\mf\backend\ml\WekaService$Result.class
+com\mf\backend\BackendApplication.class
+com\mf\backend\config\CorsConfig$1.class
+com\mf\backend\config\StaticResourcesConfig.class
+com\mf\backend\model\PredictionResponse.class
+com\mf\backend\controller\FundController.class
+com\mf\backend\ml\WekaService.class
+com\mf\backend\config\CorsConfig.class
